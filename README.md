@@ -24,8 +24,7 @@
 
 <img width="652" alt="Screen Shot 2022-04-12 at 11 46 46 PM" src="https://user-images.githubusercontent.com/42545176/163096556-30d9dab0-b81f-4a49-b8a8-4c5a76393b98.png">
 
-<img width="678" alt="Screen Shot 2022-04-13 at 9 21 57 PM" src="https://user-images.githubusercontent.com/42545176/163295488-1791325c-4d56-4823-9bf9-3d39ee75a842.png">
-
+<img width="694" alt="Screen Shot 2022-04-13 at 9 36 34 PM" src="https://user-images.githubusercontent.com/42545176/163296816-e07cc419-777f-49ac-8c1d-4c18eef92b2d.png">
 
 - [x] Visualization image exported from Tableau.
 - [x] Analyses on Visualization.
