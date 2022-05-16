@@ -41,3 +41,11 @@
 
 - [x] Visualization image exported from Tableau.
 - [x] Analyses on Visualization.
+
+### Citibike March , Start InUse 
+*[Tableau Chart of Citibike-March , Bike Type and User Type](https://public.tableau.com/app/profile/nyccoder/viz/Citibike_March_InUse_Start/March_InUse_Start)*
+
+![March_InUse_Start](https://user-images.githubusercontent.com/42545176/168636841-7e5c13c9-c1d9-489a-9376-8550cb3dc19a.png)
+
+- [x] Visualization image exported from Tableau.
+
