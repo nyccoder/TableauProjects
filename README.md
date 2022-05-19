@@ -49,3 +49,8 @@
 
 - [x] Visualization image exported from Tableau.
 
+### Citibike March , Bike Usage Visualization
+
+![citibike-2022-05-19T14-42-58 611Z](https://user-images.githubusercontent.com/42545176/169325514-9058d352-3293-4855-a15c-c9d4943e3f6f.jpg)
+
+- [x] Visualization image exported from Apache Superset.
